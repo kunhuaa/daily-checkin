@@ -1,0 +1,18 @@
+# 日志
+logs/
+*.log
+
+# 环境变量（包含敏感信息）
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Docker
+.docker/
+
+# 临时文件
+*.tmp
+*.json.bak

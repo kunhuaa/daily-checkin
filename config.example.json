@@ -1,0 +1,23 @@
+{
+  "baiduwp": {
+    "cookie": "BDUSS=your_baidupass_cookie"
+  },
+  "bilibili": {
+    "cookie": "SESSDATA=your_sessdata; bili_jct=your_jct"
+  },
+  "enshan": {
+    "cookie": "rHEX_2132_auth=your_auth"
+  },
+  "kgqq": {
+    "cookie": "RK=your_rk; ptcz=your_ptcz"
+  },
+  "tieba": {
+    "cookie": "BDUSS=your_baidutieba_cookie"
+  },
+  "aliyun": {
+    "refresh_token": "your_aliyundrive_refresh_token"
+  },
+  "wps": {
+    "cookie": "csrf=your_csrf; uid=your_uid"
+  }
+}
